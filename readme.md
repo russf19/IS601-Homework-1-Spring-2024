@@ -1,3 +1,4 @@
+# Hello Professor!
 # Homework 1
 ## Instructions
 1. Install WSL2 with Ubuntu linux installed
